@@ -17,5 +17,6 @@ if __name__ == '__main__':
     print("modif dans test")
     print('une modif')
     print('après la version1')
+    print('avavnt V2')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
