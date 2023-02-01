@@ -19,5 +19,6 @@ if __name__ == '__main__':
     print('après la version1')
     print('avavnt V2')
     print('après v2')
+    print('V3')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
